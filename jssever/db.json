@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Kiến thức cơ bản, tổng quan cho người mới bắt đầu",
+      "description": "Kiến thức cơ bản dành cho người mới, không phân biệt bạn theo Front-end, Back-end "
+    },
+    {
+      "id": 2,
+      "name": "Xây dựng web với NodeJS & Express JS",
+      "description": "Xây dựng web trong thực tế với NodeJS & ExpressJS với cách chia sẻ chi tiết, tận tâm, dễ hiểu và chất giọng giàu sức sống của người chia sẻ"
+    },
+    {
+      "name": "Thiết kế web responsive",
+      "description": "Khóa học này sẽ giúp bạn nắm chắc tư tưởng cốt lõi của việc xây dựng giao diện website respónive và áp dụng trong thực tế ",
+      "id": 3
+    }
+  ]
+}
